@@ -1,0 +1,9 @@
+{
+        "C_Cpp.errorSquiggles": "Disabled",
+        "files.associations": {
+            "esp_bt_main.h": "c",
+            "esp_gatt_common_api.h": "c",
+            "bluetooth.h": "c",
+            "led.h": "c"
+        }
+}
